@@ -23,14 +23,14 @@
   No installation needed for this application it is simply a tutorial on an example regular expression for a URL.
 
   ## Usage
-  You read the tutorial and learn about a URL regular expression.
+  You read the tutorial about URL regular expression and learn more about a URL regular expression.
 
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)  
   You can fork this repository if you want to add any additional information.
 
   ## Tests
-  No need to test this application becasue it is an inform only.
+  No need to test this application because it is an inform only.
 
   ## Questions?
   ### Reach me here: 
